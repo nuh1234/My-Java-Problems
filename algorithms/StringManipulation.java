@@ -1,6 +1,6 @@
 package algorithms;
 import java.util.*;
-public class Algorithm {
+public class StringManipulation {
 
 	public static void main(String[] args) {
 
